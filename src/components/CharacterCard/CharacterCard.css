@@ -1,3 +1,7 @@
 .Gallery {
     background-color: black !important;
 }
+
+img {
+    border: solid 1px black;
+}
