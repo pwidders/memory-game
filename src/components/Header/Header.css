@@ -1,8 +1,14 @@
 header {
     background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/moving-through-stars-in-space_-1zccenlb__F0000.png');
-    height: 350px;
+    height: 300px;
     color: azure;
     text-align: center;
     font-size: 22px;
-    margin-top: 20px;
+    font-family: 'Abel', sans-serif;
+    margin-top: 85px;
+}
+
+.Textbox {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
 }

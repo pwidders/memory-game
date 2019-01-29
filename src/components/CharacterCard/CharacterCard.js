@@ -1,8 +1,9 @@
 import React from 'react';
+import classes from './CharacterCard.css';
 
 function CharacterCard(props) {
     return (
-        <div>
+        <div className={classes.Gallery}>
             <img
                 alt={props.name}
                 src={props.image}
