@@ -4,7 +4,6 @@ import Header from "./components/Header/Header";
 import characters from "./characters.json";
 import Navbar from "./components/Navbar/Navbar";
 import './App.css';
-
 // images
 // import cosmic1 from '../..'
 
