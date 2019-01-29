@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './Navbar.css';
+import './Navbar.css';
 
 function Navbar(props) {
     return (

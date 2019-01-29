@@ -1,12 +1,15 @@
 .navbar {
     text-align: center;
-    font-family: 'Abel', sans-serif;
     font-size: 26px;
     background-color: black;
-    color: azure;
     box-shadow: 0 1px 1px #ccc;
     border: solid 2px grey;
     position: fixed;
     top: 0;
     width: 100%;
+}
+
+.navbar li {
+    font-family: 'Abel', sans-serif;
+    color: azure;
 }
