@@ -1,6 +1,6 @@
 # Super Space Memory Game!
 
-![](ReadmeAssets\screenshot.png);
+![](ReadmeAssets/screenshot.png);
 
 Test your memory skills in a space-themed quest to click all twelve mystery images in a row without repeat clicking any of them! This game puts you with the cosmos in a quest to find them all.
 
