@@ -1,0 +1,9 @@
+.navbar {
+    text-align: center;
+    background-color: black;
+    box-shadow: 0 2px 1px #ccc;
+    border: solid 1px grey;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
