@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Super Space Memory Game!
 
-## Available Scripts
+![](ReadmeAssets/screenshot.png);
 
-In the project directory, you can run:
+Test your memory skills in a space-themed quest to click all twelve mystery images in a row without repeat clicking any of them! This game puts you with the cosmos in a quest to find them all.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+There is no installation instructions to view the web version of this application. To run it on a local machine, you must run an npm install. This application was developed using React.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+You must have the React package installed locally, as well as all added dependencies to run this application locally.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installing
 
-### `npm run build`
+Clone this repository down to your local machine in a folder of your choosing. Create a react app on your local machine. Navigate to that folder and swap it's package.json and 'src' folder with the equivalent files from this repository. Run npm start/yarn start and check for troubleshooting. If no errors, 
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Running the tests
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Run npm start/yarn start from the command line navigated inside your project folder and check for errors. If no errors, your react application should create a local server and launch in broswer.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
 
-### `npm run eject`
+Follow instructions from https://reactgo.com/deploy-react-app-github-pages/ for GH pages deployment.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Built With
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React
+Visual Studio Code
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Versioning
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1.0
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Pete Widders
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+*Hat tip to my tutor, Vivian Lai for helping me launch this application and React instruction.
