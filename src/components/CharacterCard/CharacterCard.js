@@ -1,8 +1,7 @@
 import React from 'react';
 import classes from './CharacterCard.css';
 
-function CharacterCard(props) {
-    return (
+const CharacterCard = (props) => (
         <div className={classes.Gallery}>
             <img
                 alt={props.name}
@@ -11,7 +10,6 @@ function CharacterCard(props) {
                 className="click-item"
             />
         </div>
-    );
-}
+);
 
 export default CharacterCard;
